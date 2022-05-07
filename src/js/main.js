@@ -1,7 +1,7 @@
 /** @type {CharData} */
 let characterData       = [];   // Initial character data set used.
 /** @type {CharData} */
-Yeah let characterDataToSort = [];   // Character data set after filtering.
+let characterDataToSort = [];   // Character data set after filtering.
 /** @type {Options} */
 let options             = [];   // Initial option set used.
 
