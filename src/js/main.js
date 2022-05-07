@@ -907,3 +907,4 @@ function reduceTextWidth(text, font, width) {
 }
 
 window.onload = init;
+}
