@@ -221,7 +221,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shirouzu Mairu/Tsuruda Himeko",
-    img: "8ZBvLnQ.jpng",
+    img: "8ZBvLnQ.jpeg",
     opts: {}
   },
   {
