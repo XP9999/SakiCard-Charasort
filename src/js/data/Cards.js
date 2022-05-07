@@ -4,7 +4,7 @@ dataSet[dataSetVersion] = {};
 dataSet[dataSetVersion].options = [{
     name: "Dont click this",
     key: "Balls",
-    tooltip: "Cant remove filrer part or the code break.Maybe filter will come when sakicard got a ban list.",
+    tooltip: "Cant remove filter part or the code break.Maybe filter will come when sakicard got a ban list.",
     checked:false
  }];
 
