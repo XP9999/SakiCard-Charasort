@@ -6,7 +6,7 @@ dataSet[dataSetVersion].options = [{
     key: "Balls",
     tooltip: "Cant remove filrer part or the code break.Maybe filter will come when sakicard got a ban list.",
     checked:false
- }]
+ }];
 
 dataSet[dataSetVersion].characterData = [
   {
