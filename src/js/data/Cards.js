@@ -90,6 +90,11 @@ dataSet[dataSetVersion].characterData = [
     opts: {}
   },
   {
+    name: "Jindai Komaki",
+    img: "vhrOSdM.png",
+    opts: {}
+  },
+  {
     name: "Kainou Yoshiko",
     img: "BSnqytL.png",
     opts: {}
